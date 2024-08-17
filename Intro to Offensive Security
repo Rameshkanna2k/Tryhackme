@@ -1,1 +1,12 @@
+*offensive security - To beat a hacker, you need to behave like a hacker, finding vulnerabilities and recommending patches before a cybercriminal does.
+process of breaking into computer systems
+exploiting software bugs
+finding loopholes in applications to gain unauthorized access to them.
 
+Find hidden web pages
+gobuster -u http://fakebank.com -w wordlist.txt dir
+
+Roles in Offensive security:
+Penetration Tester - testing technology products for finding exploitable security vulnerabilities
+Red Teamer - role of an adversary, attacking an organization and providing feedback from an enemy's perspective
+Security Engineer - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
